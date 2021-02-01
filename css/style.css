@@ -1,0 +1,35 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+.carousel-inner img {
+    width: 100%;
+    height: 75%;
+}
+h2{
+    font-family: 'Rakkas', cursive;
+    color: darkred;
+}
+h3{
+    font-family: 'Holtwood One SC', serif;
+    color:teal;
+}
+h4{
+    font-family: 'Berkshire Swash', cursive;
+    color: lightcoral;
+}
+h5{
+    font-family: 'Diplomata SC', cursive;
+    text-decoration-color: yellow !important;
+}
+.services img{
+    width: 100%;
+    height: 100%;
+}
+.formItem{
+    font-family: 'Merienda', cursive;
+}
+
+/* Razor Pay Button */
+.razorpay-payment-button{
+    display: none;
+}
+
+/* Date picker CSS */
